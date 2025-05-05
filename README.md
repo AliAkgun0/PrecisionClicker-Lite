@@ -71,10 +71,6 @@ Feel free to contribute to this project by:
 
 This project is licensed under the MIT License.
 
-## Author
-
-- **Ali Akgün** - [@AliAkgun0](https://github.com/AliAkgun0)
-
 ## Acknowledgments
 
 - Built with Python and PyQt5
